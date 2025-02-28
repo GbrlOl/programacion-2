@@ -1,6 +1,7 @@
 # **[EIE409] Programación 2**
 
-[!IMPORTANT]
+> [!IMPORTANT]
+> Hola
 ## Evaluaciones
 
 | Instrumento | Fechas | 
