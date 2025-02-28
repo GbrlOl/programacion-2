@@ -1,7 +1,15 @@
 # **[EIE409] Programación 2**
 
 > [!IMPORTANT]
-> Hola
+> ## Evaluaciones
+> | Instrumento | Fechas | 
+> |:-:|:-:|
+> | **Prueba 1** | 14/04/2025 |
+> | **Prueba 2** | 04/06/2025 |
+> | **Recuperativa** | 23/06/2025 |
+> | **Proyecto Final** | 25/06/2025 |
+> | **Examen** | 07/07/2025 |
+
 ## Evaluaciones
 
 | Instrumento | Fechas | 
