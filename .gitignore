@@ -2,6 +2,7 @@
 clases/__pycache__/
 clases/utils/__pycache__/
 clases/unidad_3/
-clases/cpp/*.exe
+clases/cpp/basic_cpp/*.exe
 **/clase_9_pandas_solution.ipynb
 pruebas/
+.vscode/
