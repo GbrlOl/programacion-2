@@ -33,3 +33,36 @@ int main(){
 
 }
 ```
+
+## **stdlib.h**
+
+Esta librería similar a la anterior, se debe utilizar la siguiente función.
+
+```c++
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+// Vamos a realizar un incrementador
+int main()
+{
+    int i = 1;
+    do
+    {
+        i++;
+        cout << i << endl;
+    } while (i <= 100);
+
+    system("pause");
+    return 0;
+}
+```
+
+
+# Recursos de estudio
+
+A continuación, dejo información de la cual obtuve todo el contenido para crear la sección de C++.
+
+## YouTube
+
