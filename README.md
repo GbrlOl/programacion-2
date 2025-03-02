@@ -10,6 +10,10 @@
 > | **Proyecto Final** | 25/06/2025 |
 > | **Examen** | 07/07/2025 |
 
+# Unidad 1
+
+1. [Ver Clase 2](clases/python/clase_1_primera_clase.py)
+
 ## Contenido
 
 El contenido es referencial, puede cambiar algunas secciones.
