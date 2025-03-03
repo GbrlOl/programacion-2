@@ -1,5 +1,6 @@
 """ 
-Escribe un programa que verifique si un usuario puede ver una película, la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
+7. Escribe un programa que verifique si un usuario puede ver una película, 
+la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
 """
 
 edad = int(input("Ingresa tu edad: "))

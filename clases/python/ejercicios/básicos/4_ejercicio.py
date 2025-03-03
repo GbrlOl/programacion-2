@@ -1,3 +1,7 @@
+""" 
+4. Calculadora básica: Pedir al usuario que ingrese dos parámetros y que muestre la suma, resta, multiplicación y división.
+"""
+
 info = """ 
 Ingresa 2 valores y te mostrará la suma, resta, multiplicación y división
 """.strip()

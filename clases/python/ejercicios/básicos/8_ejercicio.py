@@ -1,5 +1,5 @@
 """ 
-Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
+8. Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
 """
 
 n = int(input("Ingresa la cantidad de números a mostrar: "))

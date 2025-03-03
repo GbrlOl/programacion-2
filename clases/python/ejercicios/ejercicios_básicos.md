@@ -12,9 +12,12 @@ A continuación, dejo enumerado distintos ejercicios que debes resolver.
 6. Desarrolla un programa que pida el ancho y alto de un rectángulo, y muestre su área.
 7. Escribe un programa que verifique si un usuario puede ver una película, la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
 8. Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
+9. Generar n elementos de la sucesión de Fibonacci, dado por el usuario.
 
 ## Ejercicios Intermedios Parte 1
 
 1. Crea un programa que concatene dos cadenas y muestre el resultado en mayúsculas y minúsculas (sin utilizar métodos).
 2. Crear un programa que permita realizar una lista tarea, donde permita agregar y eliminar tarea. Cada vez que se agrega o elimina una tarea se debe mostrar todas las tareas actuales. Por último, debe tener un escape para salir del programa.
+
+## Ejercicios Avanzados Parte 1
 

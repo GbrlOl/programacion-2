@@ -1,5 +1,6 @@
 """ 
-Desarrolla un programa que pida el ancho y alto de un rectángulo, y muestre su área.
+6. Desarrolla un programa que pida el ancho y alto de un rectángulo, y muestre su área.
+
 """
 
 ancho = float(input("Ingrese el ancho del rectángulo: "))

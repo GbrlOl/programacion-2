@@ -1,5 +1,6 @@
 """ 
-Ejercicios que pregunta la edad futura en 10 año más junto con su nombre
+5. Escribe un programa que pregunte tu nombre y edad, y muestre cuántos años tendrás dentro de 10 años.
+
 """
 
 nombre = str(input("Ingresa tu nombre: "))
