@@ -1,5 +1,9 @@
 # C++
 
+# **Nota Importante**
+
+A los directorios y subdirectorio `no utilices tíldes para nombrar las carpetas` te dará problema en C++.
+
 ## Funciones en C++
 
 Las funciones en C++ son bloques de código reutilizables que realizan tareas específicas. Son fundamentales para estructurar y modularizar tu programa. Una función básica en C++ se define con la siguiente estructura:
