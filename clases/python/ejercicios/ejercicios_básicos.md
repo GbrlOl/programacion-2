@@ -13,6 +13,9 @@ A continuación, dejo enumerado distintos ejercicios que debes resolver.
 7. Escribe un programa que verifique si un usuario puede ver una película, la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
 8. Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
 9. Generar n elementos de la sucesión de Fibonacci, dado por el usuario.
+10. Crear un programa que diga si el número ingresado es par o impar.
+11. Crear un programa que convierta grados Celsius a Fahrenheit y viceversa. Debe preguntar al usuario qué tipo de conversión desea hacer.
+12. Escribe un programa que cuente cuántas vocales (mayúsculas o minúsculas) contiene una cadena de texto ingresada por el usuario.
 
 ## Ejercicios Intermedios Parte 1
 
