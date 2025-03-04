@@ -16,6 +16,17 @@ A continuación, dejo enumerado distintos ejercicios que debes resolver.
 10. Crear un programa que diga si el número ingresado es par o impar.
 11. Crear un programa que convierta grados Celsius a Fahrenheit y viceversa. Debe preguntar al usuario qué tipo de conversión desea hacer.
 12. Escribe un programa que cuente cuántas vocales (mayúsculas o minúsculas) contiene una cadena de texto ingresada por el usuario.
+13. Pide al usuario un número y muestra la tabla de multiplicar de ese número hasta el 10.
+14. Escribe un programa que verifique si un número ingresado por el usuario es primo o no.
+15. Escribe un programa que tome una cadena de texto y la muestre invertida.
+16. Crea un programa que cuente cuántos caracteres tiene una cadena de texto ingresada por el usuario, excluyendo los espacios.
+17. Escribe un programa que calcule la suma de los primeros n números impares que le indique el usuario.
+18. Escribe un programa que calcule el factorial de un número proporcionado por el usuario ($n! = n * (n-1) * (n-2) * ... * 1$).
+19. Escribe un programa que verifique si una palabra o frase (sin importar mayúsculas/minúsculas ni espacios) es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).
+20. Escribe un programa que imprima todos los números múltiplos de 3 o 5 hasta un número que ingrese el usuario.
+21. Escribe un programa que reciba varios números del usuario y determine cuál es el mayor de ellos.
+22. Escribe un programa que reciba una lista de notas del usuario y calcule el promedio.
+
 
 ## Ejercicios Intermedios Parte 1
 
@@ -24,3 +35,8 @@ A continuación, dejo enumerado distintos ejercicios que debes resolver.
 
 ## Ejercicios Avanzados Parte 1
 
+1. Crear un programa que permita crear listas de tareas por hacer pero utilizando la POO. La idea es que sea un gestor de tarea que debe tener lo siguiente:
+
+  * Una clase `Tarea` que permita guardar el título, descripción, estado (completada/no completada), fecha de vencimiento.
+  * Métodos para marcar tareas como completadas, editar detalles y mostrar tareas pendientes.
+  * Debe guardarse un archivo json y txt, por otro lado, debe poder cargarse esos archvios.
