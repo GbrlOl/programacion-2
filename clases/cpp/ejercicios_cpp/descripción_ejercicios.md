@@ -1,4 +1,4 @@
-# Practicar Python!
+# Practicar C++!
 
 A continuación, dejo enumerado distintos ejercicios que debes resolver.
 
@@ -6,16 +6,15 @@ A continuación, dejo enumerado distintos ejercicios que debes resolver.
 
 1. Mostrar un "Hola mundo" en Python.
 2. Pedir que ingrese un número del 1 al 10 al usuario y mostrarlo por pantalla.
-3. Pedir que ingrese un número del 1 al 10 al usuario, convertirlo a un tipo de dato str y mostrarlo por pantalla.
-4. Calculadora básica: Pedir al usuario que ingrese dos parámetros y que muestre la suma, resta, multiplicación y división.
-5. Escribe un programa que pregunte tu nombre y edad, y muestre cuántos años tendrás dentro de 10 años.
-6. Desarrolla un programa que pida el ancho y alto de un rectángulo, y muestre su área.
-7. Escribe un programa que verifique si un usuario puede ver una película, la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
-8. Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
-9. Generar n elementos de la sucesión de Fibonacci, dado por el usuario.
-10. Crear un programa que diga si el número ingresado es par o impar.
-11. Crear un programa que convierta grados Celsius a Fahrenheit y viceversa. Debe preguntar al usuario qué tipo de conversión desea hacer.
-12. Escribe un programa que cuente cuántas vocales (mayúsculas o minúsculas) contiene una cadena de texto ingresada por el usuario.
+3. Calculadora básica: Pedir al usuario que ingrese dos parámetros y que muestre la suma, resta, multiplicación y división.
+4. Escribe un programa que pregunte tu nombre y edad, y muestre cuántos años tendrás dentro de 10 años.
+5. Desarrolla un programa que pida el ancho y alto de un rectángulo, y muestre su área.
+6. Escribe un programa que verifique si un usuario puede ver una película, la película es para mayores e igual a 18, las personas arriba de 60 tienen descuento.
+7. Escribe un programa donde el usuario ingresa la cantidad de números a mostrar.
+8. Generar n elementos de la sucesión de Fibonacci, dado por el usuario.
+9. Crear un programa que diga si el número ingresado es par o impar.
+10. Crear un programa que convierta grados Celsius a Fahrenheit y viceversa. Debe preguntar al usuario qué tipo de conversión desea hacer.
+11. Escribe un programa que cuente cuántas vocales (mayúsculas o minúsculas) contiene una cadena de texto ingresada por el usuario.
 13. Pide al usuario un número y muestra la tabla de multiplicar de ese número hasta el 10.
 14. Escribe un programa que verifique si un número ingresado por el usuario es primo o no.
 15. Escribe un programa que tome una cadena de texto y la muestre invertida.
