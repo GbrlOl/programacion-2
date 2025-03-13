@@ -1,5 +1,5 @@
-""" 
+"""
 Primer hola mundo en Python!
 """
 
-print("Hola mundo")
+print("hola mundo!")
