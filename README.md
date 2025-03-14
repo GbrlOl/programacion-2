@@ -14,7 +14,7 @@
 
 ## Unidad 1
 
-A continuación dejo referenciado a todas las clases para el curso.
+A continuación dejo referenciado a todas las clases del curso, al seleccionar el link los redireccionará al contenido de cada clase, mostrando el notebook con código.
 
 1. [Ver Clase 1: Introducción al mundo de la programación.](clases/python/clase_1_primera_clase.py)
 2. [Ver Clase 2: Introducción a Python.](clases/python/clase_2_introducción_python.ipynb)
