@@ -1,5 +1,7 @@
 # **[EIE409] Programación 2**
 
+Nota, cambiar fecha y dar aviso del proyecto final.
+
 > [!IMPORTANT]
 > ## Evaluaciones
 > | Instrumento | Fechas | 
